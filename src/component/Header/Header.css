@@ -1,0 +1,17 @@
+.blockheader{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 50vh;
+}
+
+.blockone  .blocktwo {
+
+    text-align: center;
+}
+
+.blocktwo p{
+    text-align: justify;
+}
